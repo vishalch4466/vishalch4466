@@ -5,7 +5,9 @@
 
 I build intelligent applications on top of large language models — RAG pipelines, chatbots, and document-processing tools — working across the stack from prompt engineering and vector search to FastAPI backends and cloud deployment.
 
-🔗 [LinkedIn](https://linkedin.com/in/vishal-yadav-chatharasi) · [GitHub](https://github.com/vishalch4466)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-yadav-chatharasi)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vishalch4466)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vishalch4466@gmail.com)
 
 ---
 
