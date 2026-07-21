@@ -1,4 +1,3 @@
-<!-- Profile README for vishalch4466 -->
 # Hi, I'm Vishal 👋
 
 ### Generative AI Engineer — building LLM-powered apps & RAG systems
